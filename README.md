@@ -1,3 +1,3 @@
 # App Preview
 
-![foods](https://github.com/ParhamChari/Foods/assets/138799659/a0dc3cc9-2557-4df0-b4b0-dbb875650619)
+![foods](https://github.com/ParhamChari/Foods/assets/138799659/1e97eb4f-92aa-4cb5-a545-f64992cc13f9)
